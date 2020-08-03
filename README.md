@@ -8,5 +8,5 @@ Here's a little something about me:
 - Graduated as a full-stack developer from <*/salt> spring 2020
 - Looking to collaborate with others
 
-### Connect with me on
+### Connect with me on:
 https://www.linkedin.com/in/mariewinthermadsen
