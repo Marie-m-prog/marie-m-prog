@@ -5,7 +5,7 @@ Passionate about both user experience and code, I am constantly looking for new 
 Here's a little something about me: 
 - BA in Communication and IT
 - MA in Cross-media Communication
-- Graduated as a full-stack developer from </salt> spring 2020
+- Graduated as a full-stack developer from School of Applied Technology spring 2020
 - Looking to collaborate with others
 
 ### Connect with me on:
