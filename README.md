@@ -9,4 +9,4 @@ Here's a little something about me:
 - Looking to collaborate with others
 
 ## Connect with me on
-[linkedin]: https://www.linkedin.com/in/mariewinthermadsen
+https://www.linkedin.com/in/mariewinthermadsen
